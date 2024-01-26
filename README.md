@@ -3,7 +3,6 @@
 <h2>👨‍💻 IT Support, Networking and Azure AD Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/dorathyofoha/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dorathyofoha/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dorathyofoha/ticket-lifecycle)
 - <b>Microsoft Azure</b>
