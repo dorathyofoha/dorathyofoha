@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dorathy, an <a href="https://linkedin.com/in/dorathyofoha">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 IT Support, Networking and Azure AD Projects:</h2>
+<h2>👨‍💻 IT Support, Networking and Azure Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/dorathyofoha/osticket-post-install-config)
@@ -11,7 +11,7 @@
 - <b>Azure Computing and Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dorathyofoha/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/dorathyofoha/vpn-usage)
+  - [Setup of Proton VPN and Observing its Effect on various IP Addresses](https://github.com/dorathyofoha/vpn-usage)
 
 <br />
 
