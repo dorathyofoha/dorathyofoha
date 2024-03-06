@@ -11,7 +11,7 @@
 - <b>Azure Computing and Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dorathyofoha/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Setup of Proton VPN and Observing its Effect on various IP Addresses](https://github.com/dorathyofoha/vpn-usage)
+  - [Setup of Proton VPN and Observing its Effect on IP Addressing](https://github.com/dorathyofoha/vpn-usage)
 
 <br />
 
