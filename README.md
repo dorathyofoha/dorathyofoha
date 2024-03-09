@@ -7,6 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dorathyofoha/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/dorathyofoha/configure-ad)
+  - [Network File Shares and Permissions](https://github.com/dorathyofoha/network-file-shares-permissions)
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/dorathyofoha/create-azure-vm)
 - <b>Azure Computing and Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dorathyofoha/azure-network-protocols)
